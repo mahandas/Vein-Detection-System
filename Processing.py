@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 from matplotlib import pyplot as plt
-
+#Author : Mahan Das
 img = cv2.imread('temp.jpg',0)
 #img = img[150:300,150:350]
 kernel = np.ones((5,5), np.uint8)
