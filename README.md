@@ -12,7 +12,7 @@ But the problem lies in the fact that it's not straightforward. The process is c
   
 First stick failure rates, the rate at which a needle is not inserted correctly, have been estimated to range from 20% to 33%. In children or elderly, it is as high as 50-70%. Multiple attempts have to be made just to get the needle inserted correctly.
   
-  <insert image>
+![injection](https://github.com/mahandas/Vein-Detection-System/blob/master/injecting.jpg)
   
 #### How serious is it?
   
@@ -31,7 +31,7 @@ The vein branches and a point of insertion is generally at the point of branchin
 
 ### Flow of the System
   
-  <insert image>
+  ![FileSystem](https://github.com/mahandas/Vein-Detection-System/blob/master/process.jpg)
   
 1. The user enhances the contrast of the image to suit the environment.  
 2. An image is then captured of the hand, which is converted to grayscale and enhanced using CLAHE(Histogram equalization).  
@@ -44,7 +44,7 @@ The vein branches and a point of insertion is generally at the point of branchin
   
 Several failed experiments are also provided in the repository. These helped in coming up with the improved implementation. Below is the result of the experiment on my hand! :D
   
-  <image>
+  ![Result](https://github.com/mahandas/Vein-Detection-System/blob/master/Result.jpg)
   
 ### Learning
   
