@@ -49,5 +49,5 @@ Several failed experiments are also provided in the repository. These helped in 
 ### Learning
   
 This was a super fun project. Took a lot of timem effort and team work to get things done. My intial code burnt the first raspberry pi. But then I learnt my lesson, went online and did lessons on image processing and then implemted the working version of this project.
-
-#### More to be update... Soon...
+  
+More to be updated soon...
