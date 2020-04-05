@@ -4,7 +4,7 @@
   
 A prototype of a system that can be used to detect a persons vein and the point of entry of the needle. The code in this repository has the the software aspect of the project. However, the project was implemented on a rasberry pi with infrared lights as a stand alone system.
   
-### Okay... But do we need this?
+### Why do we need this?
   
 The insertion of a needle into the vein is termed as Venipuncture. It is the most commonly performed invasive routine. It establishes access to the venous blood stream and is performed for various reasons(injections, blood retrieval, saline, etc)
   
